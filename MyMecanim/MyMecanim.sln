@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{079346F3-6109-D9C1-E9DD-C00AFE7FF0D4}") = "MyMecanim", "Assembly-CSharp.csproj", "{3B827A18-9749-B7D7-5E64-FDB955BD517C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B827A18-9749-B7D7-5E64-FDB955BD517C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B827A18-9749-B7D7-5E64-FDB955BD517C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B827A18-9749-B7D7-5E64-FDB955BD517C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B827A18-9749-B7D7-5E64-FDB955BD517C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
