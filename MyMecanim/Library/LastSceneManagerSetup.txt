@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/MyBazooka.unity
+- path: Assets/_Scenes/MyNavAgent.unity
   isLoaded: 1
   isActive: 1
