@@ -69,6 +69,11 @@
      <Compile Include="Assets\_Scripts\Animator Controller\AnimatorMove.cs" />
      <Compile Include="Assets\_Scripts\Animator Controller\MyAnimatorUI.cs" />
      <Compile Include="Assets\_Scripts\CameraMover.cs" />
+     <Compile Include="Assets\_Scripts\Crowd Simulation\CrowdMovement.cs" />
+     <Compile Include="Assets\_Scripts\Crowd Simulation\PlayerGenerator.cs" />
+     <Compile Include="Assets\_Scripts\IK\MyIK.cs" />
+     <Compile Include="Assets\_Scripts\Weapon\MyBazooka.cs" />
+     <Compile Include="Assets\_Scripts\Weapon\MyBear.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>E:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
