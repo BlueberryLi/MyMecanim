@@ -72,6 +72,8 @@
      <Compile Include="Assets\_Scripts\Crowd Simulation\CrowdMovement.cs" />
      <Compile Include="Assets\_Scripts\Crowd Simulation\PlayerGenerator.cs" />
      <Compile Include="Assets\_Scripts\IK\MyIK.cs" />
+     <Compile Include="Assets\_Scripts\NavAgent\MyAgent.cs" />
+     <Compile Include="Assets\_Scripts\NavAgent\MyLocomotion.cs" />
      <Compile Include="Assets\_Scripts\Weapon\MyBazooka.cs" />
      <Compile Include="Assets\_Scripts\Weapon\MyBear.cs" />
  <Reference Include="UnityEngine.UI">
